@@ -4,3 +4,4 @@ console.log(
 console.log("fourthn");
 
 console.log("fourthn");
+var x=20;
